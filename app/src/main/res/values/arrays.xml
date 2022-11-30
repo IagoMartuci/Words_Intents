@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        <item>Assembly</item>
+        <item>ASP.net</item>
+        <item>Basic</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>C#</item>
+        <item>COBOL</item>
+        <item>Clojure</item>
+        <item>ActionScript</item>
+        <item>Pascal/Object Pascal</item>
+        <item>Euphoria</item>
+        <item>Java</item>
+        <item>JavaScript</item>
+        <item>Lua</item>
+        <item>MATLAB</item>
+        <item>PHP</item>
+        <item>Python</item>
+        <item>R</item>
+        <item>Ruby</item>
+        <item>Tcl</item>
+        <item>Basic/Visual Basic</item>
+        <item>TypeScript</item>
+        <item>Ruby</item>
+        <item>Swift</item>
+        <item>Objective-C</item>
+        <item>Shell</item>
+        <item>Scala</item>
+        <item>Go</item>
+        <item>PowerShell</item>
+        <item>Kotlin</item>
+        <item>Rust</item>
+        <item>Perl</item>
+        <item>Dart</item>
+        <item>SQL</item>
+        <item>ALGOL</item>
+        <item>Fortan</item>
+    </string-array>
+</resources>
